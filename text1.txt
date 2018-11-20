@@ -1,1 +1,5 @@
 first git practice
+git add .
+git commit -m "text1.txt"
+git push orgin master
+
